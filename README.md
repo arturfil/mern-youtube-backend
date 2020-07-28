@@ -56,7 +56,7 @@ sudo systemctl status mongodb
 
 # Install the git projects in the server
 
-#Chec .env file on backend
+# Chec .env file on backend
 /127.0.0.1/ instead of localhost
 
 # Check on frontend
