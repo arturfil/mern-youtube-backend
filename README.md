@@ -48,10 +48,10 @@ sudo systemctl restart nginx
 # Install pm2
 sudo npm i pm2 -g
 
-#install mongodb
+# install mongodb
 sudo apt install -y mongodb
 
-#check mongoldb status
+# check mongoldb status
 sudo systemctl status mongodb
 
 # Install the git projects in the server
@@ -59,7 +59,7 @@ sudo systemctl status mongodb
 #Chec .env file on backend
 /127.0.0.1/ instead of localhost
 
-#Check on frontend
+# Check on frontend
 Just leave “/api”
 
 Server setup for the react file
